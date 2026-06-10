@@ -30,7 +30,7 @@ linha3.style.margin = '5px 0';
 linha3.style.color = '#cccccc';  // Tom mais suave para diferenciar
 
 const linha4 = document.createElement('p');
-linha4.textContent ='Autor: Prof Domicio Pedra';
+linha4.textContent ='Autor: Yohanna E.G. Hegele';
 
 // Montando o rodapé
 rodape.appendChild(linha1);
