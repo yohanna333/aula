@@ -22,7 +22,7 @@ estudante.style.objectFit = 'cover';
 
 // ========== Texto principal ==========
 const texto = document.createElement('p');
-texto.innerHTML = 'Este é um típico e feliz aluno de programação, que poderia ser do 2ºB de Matemática ' +
+texto.innerHTML = 'Essa é uma aluna do 2ºB de Matemática do' + 
     'matutino deste colégio.<br> Notem pela expressão que ele está feliz porque prestou muita ' +
     'atenção na aula e realizou todas as atividades, recebendo um certificado de excelencia, sendo melhor da sala e aula.<br> Certamente poderíamos seguir ' +
     'esse exemplo para nos prepararmos para realizar nosso sonhos no mercado de trabalho e, portanto, na vida.';
