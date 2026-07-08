@@ -13,8 +13,8 @@ container.style.borderRadius = '10px';
 
 // ========== Imagem ==========
 const estudante = document.createElement('img');
-estudante.src = 'estudante.jfif';
-estudante.alt = 'Foto do estudante';
+estudante.src = 'imagemY.jpeg';
+estudante.alt = 'imagem da estudante';
 estudante.style.width = '400px';
 estudante.style.height = '600px';
 estudante.style.borderRadius = '10px';
@@ -24,7 +24,7 @@ estudante.style.objectFit = 'cover';
 const texto = document.createElement('p');
 texto.innerHTML = 'Este é um típico e feliz aluno de programação, que poderia ser do 2ºB de Matemática ' +
     'matutino deste colégio.<br> Notem pela expressão que ele está feliz porque prestou muita ' +
-    'atenção na aula e realizou todas as atividades.<br> Certamente poderíamos seguir ' +
+    'atenção na aula e realizou todas as atividades, recebendo um certificado de excelencia, sendo melhor da sala e aula.<br> Certamente poderíamos seguir ' +
     'esse exemplo para nos prepararmos para realizar nosso sonhos no mercado de trabalho e, portanto, na vida.';
 
 texto.style.textAlign = 'justify';
